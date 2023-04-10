@@ -14,3 +14,6 @@ The app is created using [p5.js](https://p5js.org) for graphics, [ml5.js](https:
 - Play with your facial expression and make music! (music is coming soon!)
 
 
+## Comments, Questions
+
+Please share your questions/comments etc either via GitHub or connect with me on [Twitter](https://twitter.com/suyashcjoshi)
