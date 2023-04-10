@@ -3,7 +3,7 @@ A smart web app that is also an organic music instrument :)
 
 It works be detecting your facial expressions aka features from your camera and as the expressions change, various sounds are played, thereby giving the control of music making to the face of the user.
 
-The app is created using p5.js, ml5.js and tone.js and can be run and modified very easily.
+The app is created using [p5.js](https://p5js.org) for graphics, [ml5.js](https://learn.ml5js.org/#/reference/face-api) for face detection and [tone.js](https://tonejs.github.io) for music making.
 
 ### Steps to run:
 
